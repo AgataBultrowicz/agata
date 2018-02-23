@@ -1,3 +1,9 @@
 # Notacja asciidoctor
 # i tu link z ascii
 Fajna notacja.
+
+#include <stdio.h>
+
+int main(){
+printf("Hello");
+}
