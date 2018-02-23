@@ -1,0 +1,3 @@
+# Notacja asciidoctor
+
+Fajna notacja.
